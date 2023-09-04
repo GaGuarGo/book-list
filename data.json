@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "O Segredo do Universo",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": " Viagem do Herói",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "As Crônicas de Fantasia",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "name": "O Enigma do Tempo",
+      "price": 32
+    },
+    {
+      "id": 5,
+      "name": "A Dança das Palavras",
+      "price": 23
+    },
+    {
+      "id": 6,
+      "name": "O Mistério da Noiter",
+      "price": 28
+    },
+    {
+      "id": 7,
+      "name": "A Magia das Histórias",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "O Poder da Imaginação",
+      "price": 22
+    },
+    {
+      "id": 9,
+      "name": "A Jornada do Conhecimento",
+      "price": 29
+    },
+    {
+      "id": 10,
+      "name": "A Busca da Verdade",
+      "price": 24
+    }
+  ]
+}

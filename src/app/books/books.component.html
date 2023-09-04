@@ -1,0 +1,23 @@
+<div class="p-3 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-3">
+    Lista de Livros:
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Preço</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let book of books">
+                <th scope="row">{{ book.id }}</th>
+                <td>
+                    {{ book.name }}
+                </td>
+                <td>R$ {{ book.price | number}},00</td>
+
+            </tr>
+        </tbody>
+    </table>
